@@ -1,0 +1,23 @@
+[
+    {
+        "moeda": "Dólar Americano/Real Brasileiro",
+        "codigo": "USD",
+        "valor_mercado": 5.6666,
+        "valor_final_cliente": 5.7799,
+        "data_hora": "2026-11-14 18:13:51"
+    },
+    {
+        "moeda": "Euro/Real Brasileiro",
+        "codigo": "EUR",
+        "valor_mercado": 6.2462,
+        "valor_final_cliente": 6.3711,
+        "data_hora": "2026-11-14 18:13:51"
+    },
+    {
+        "moeda": "Bitcoin/Real Brasileiro",
+        "codigo": "BTC",
+        "valor_mercado": 370548.0,
+        "valor_final_cliente": 377958.96,
+        "data_hora": "2026-11-14 18:13:51"
+    }
+]
